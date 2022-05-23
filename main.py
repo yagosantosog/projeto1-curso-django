@@ -1,3 +1,0 @@
-def pegarItem():
-
-    name = 'oliver'
